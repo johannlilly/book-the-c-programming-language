@@ -37,7 +37,8 @@
 *.hex
 
 # Temp files
-*.c~
+*.swp
+*.*~
 
 # Debug files
 *.dSYM/
