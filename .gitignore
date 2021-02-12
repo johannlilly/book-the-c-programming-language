@@ -36,6 +36,9 @@
 *.x86_64
 *.hex
 
+# Temp files
+*.c~
+
 # Debug files
 *.dSYM/
 *.su
@@ -50,3 +53,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# IDE
+.vs/*
+.vscode/*
